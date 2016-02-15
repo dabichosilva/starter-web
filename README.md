@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Something happened?
 
 Well yes :)
+
+## Another section
+
+More and more text
