@@ -1,2 +1,4 @@
 unwantedFile
 log/
+*.bak
+*.orig
