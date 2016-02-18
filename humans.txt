@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    David Silva	david@dabichosilva.com	@dabichosilva
 
 # THANKS
 
