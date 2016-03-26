@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 ### Something happened?
 
 Well yes :)
+And I added more text.
+
 
 ## Another section
 
